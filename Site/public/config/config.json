@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "Seu contrato",
+  "SCAN_LINK": "https://polygonscan.com/token/Seu contrato",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nome da sua coleção", 
+  "SYMBOL": "Token da sua coleção",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1, 
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/SUACOLEÇÃO",
+  "SHOW_BACKGROUND": true
+}
